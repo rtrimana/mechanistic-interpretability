@@ -1,0 +1,4 @@
+torch>=2.0
+transformer_lens>=2.0
+matplotlib>=3.7
+numpy>=1.24
