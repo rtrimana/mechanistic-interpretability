@@ -23,7 +23,6 @@ a runnable `.py` script instead of a notebook:
 ## 1. Set up the environment
 
 ```bash
-cd induction_project
 python3 -m venv venv
 
 # macOS / Linux
